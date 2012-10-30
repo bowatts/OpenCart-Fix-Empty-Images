@@ -1,0 +1,5 @@
+Open Cart - Fix Emppty Images
+-	This script will find any empty
+	image field from each product and
+	set it to the no_image.jpg default
+	no image file
