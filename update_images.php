@@ -6,6 +6,8 @@
 		image field from each product and
 		set it to the no_image.jpg default
 		no image file
+	-	Must be installed in the root of 
+		the OpenCart install
 ----------------------------------------*/
 
 require_once( 'config.php' );
