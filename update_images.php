@@ -1,7 +1,7 @@
 <?php
 
 /*----------------------------------------
-	Open Cart - Fix Emppty Images
+	Open Cart - Fix Empty Images
 	-	This script will find any empty
 		image field from each product and
 		set it to the no_image.jpg default
