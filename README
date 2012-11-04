@@ -5,3 +5,6 @@ Open Cart - Fix Empty Images
 	no image file
 -	Must be installed in the root of 
 	the OpenCart install
+-	Execute script by navigating to 
+	it in your browser 
+	http://your_install.com/update_images.php
