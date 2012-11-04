@@ -1,10 +1,10 @@
 Open Cart - Fix Empty Images
--	This script will find any empty
-	image field from each product and
-	set it to the no_image.jpg default
-	no image file
--	Must be installed in the root of 
-	the OpenCart install
--	Execute script by navigating to 
-	it in your browser 
-	http://your_install.com/update_images.php
+- This script will find any empty
+  image field from each product and
+  set it to the no_image.jpg default
+  no image file
+- Must be installed in the root of 
+  the OpenCart install
+- Execute script by navigating to 
+  it in your browser 
+  http://your_install.com/update_images.php
