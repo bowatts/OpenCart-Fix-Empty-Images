@@ -4,5 +4,7 @@ Open Cart - Fix Empty Images
   the no_image.jpg default no image file
 - Must be installed in the root of the 
   OpenCart install
+- To use a custom default image, simply save 
+  your file as /image/no_image.jpg
 - Execute script by navigating to it in 
   your browser http://your_install.com/update_images.php
